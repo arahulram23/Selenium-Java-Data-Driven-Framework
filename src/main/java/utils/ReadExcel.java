@@ -10,7 +10,7 @@ import org.apache.poi.xssf.usermodel.XSSFSheet;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 public class ReadExcel {
-	public static String location = "C:\\Users\\Aishwarya\\eclipse-workspace\\ApachePOI\\test-data\\excel.xlsx";
+	public static String location = "test-data/excel.xlsx";
 	public static XSSFWorkbook wbook;
 	public static XSSFSheet sheet;
 

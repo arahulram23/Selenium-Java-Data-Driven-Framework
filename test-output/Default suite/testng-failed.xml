@@ -5,7 +5,7 @@
     <classes>
       <class name="loginTest.Login">
         <methods>
-          <include name="login" invocation-numbers="0 1 2 3"/>
+          <include name="login" invocation-numbers="3"/>
         </methods>
       </class> <!-- loginTest.Login -->
     </classes>
